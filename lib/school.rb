@@ -1,10 +1,9 @@
 # code here!
 class School 
-  def initialize(model)
-    @model = model
+  def initialize(name)
+    @name = name
   end
    
-  def model
-    @model
-  end
+  def name
+    @name
 end
