@@ -6,4 +6,6 @@ class School
     @model = model
     @roster = {}
   end
+  
+  
 end
