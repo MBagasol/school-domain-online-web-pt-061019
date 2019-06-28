@@ -16,5 +16,5 @@ class School
     roster[st_grade]
   end
   
-  
+  def sort 
 end
