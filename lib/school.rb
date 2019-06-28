@@ -13,6 +13,6 @@ class School
   end
   
   def grade(st_grade)
-    @roster(st_grade)
+    roster(st_grade)
   end
 end
